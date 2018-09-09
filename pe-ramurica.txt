@@ -10,3 +10,5 @@ doar pe master
 commit zero - incep serie noua de comiteri
 
 commit unu
+
+commit DOI - pursus cactus ve mediocrus fe laaatinus languagesu care te pusus pentru umpluturus
