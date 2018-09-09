@@ -3,3 +3,6 @@ de pus aici pt comis in master
 
 
 hai ca te editez direct ca m-am enervat !!!!!
+
+doar pe master
+commit zero - incep serie noua de comiteri
