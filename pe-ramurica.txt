@@ -1,3 +1,5 @@
 am creat acest fisier in folderul prectului duoa ce am creat branch o-ramurica
 
 as vrea sa apara asta doar pe master
+
+0r - hai sa mai comit ceva#
